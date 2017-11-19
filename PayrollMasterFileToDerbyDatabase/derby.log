@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Oct 19 13:53:05 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-35c4-6aae-000076d7fee0 
+on database directory /home/hgontarz/NetBeansProjects/cis2206/PayrollMasterFileToDerbyDatabase/data/PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+Loaded from file:/home/hgontarz/NetBeansProjects/cis2206/Derby-10.13.1.1/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/hgontarz/NetBeansProjects/cis2206/PayrollMasterFileToDerbyDatabase
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 19 13:53:06 EDT 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Oct 19 13:53:06 EDT 2017:
+Shutting down instance a816c00e-015f-35c4-6aae-000076d7fee0 on database directory /home/hgontarz/NetBeansProjects/cis2206/PayrollMasterFileToDerbyDatabase/data/PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+----------------------------------------------------------------
