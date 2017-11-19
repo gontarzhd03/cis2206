@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Oct 20 12:04:15 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-3a87-2031-0000035ce5b0 
+on database directory C:\Users\55gontarhd03\Documents\NetBeansProjects\PayrollModifyDeleteDerbyDatabase\data\PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@4b67cf4d 
+Loaded from file:/C:/Users/55gontarhd03/Documents/NetBeansProjects/Derby-10.13.1.1/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Users\55gontarhd03\Documents\NetBeansProjects\PayrollModifyDeleteDerbyDatabase
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
