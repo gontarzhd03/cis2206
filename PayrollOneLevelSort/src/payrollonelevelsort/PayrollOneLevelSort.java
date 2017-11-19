@@ -9,7 +9,7 @@ import dao.LineSequential;
 
 /**
  *
- * @author Clarence
+ * @author hgontarz
  */
 public class PayrollOneLevelSort {
     /**
