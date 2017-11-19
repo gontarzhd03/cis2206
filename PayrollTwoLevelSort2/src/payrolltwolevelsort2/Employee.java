@@ -7,7 +7,7 @@ package payrolltwolevelsort2;
 
 /**
  *
- * @author Clarence
+ * @author hgontarz
  */
 public class Employee implements Comparable {
     private int territoryNumber;
