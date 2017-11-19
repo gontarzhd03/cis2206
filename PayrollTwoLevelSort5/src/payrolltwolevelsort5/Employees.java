@@ -41,25 +41,14 @@ public class Employees {
         }
         performControlBreak(indexBreak, employees.size(), districtComparator);
     }
-/*
-    static void performControlBreak(int indexBreak, int i, DistrictComparator districtComparator) {
-        for(int j = indexBreak; j < i; j++) {
-            tempArrayList.add(j, employees.get(j));
-        }
-        tempArrayList.sort(districtComparator);
-        for(int j = indexBreak; j < i; j++) {
-            employees.set(j, tempArrayList.get(j - indexBreak));
-        }
-        tempArrayList.clear();
-    }
-*/
+
     static void performControlBreak(int indexBreak, int i, DistrictComparator districtComparator) {
         for(int j = indexBreak; j < i; j++) {
             tempArrayList.add(employees.get(j));
         }
         tempArrayList.sort(districtComparator); //we are going to use comparator
-        for(int j = indexBreak, k = 0; j < i; j++, k++) {
-            employees.set(j, tempArrayList.get(k));
+        for(int j = indexBreak; j < i; j++) {
+            employees.set(j, tempArrayList.get(j - indexBreak));
         }
         tempArrayList.clear();
     }
