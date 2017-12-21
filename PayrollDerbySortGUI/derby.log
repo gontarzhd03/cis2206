@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Fri Nov 17 11:46:23 EST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-cadf-c382-0000033acf78 
-on database directory C:\Users\55gontarhd03\Documents\NetBeansProjects\PayrollDerbySortGUI\data\PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@55f96302 
-Loaded from file:/C:/Users/55gontarhd03/Documents/NetBeansProjects/PayrollDerbySortGUI/dist/run214183463/lib/derby.jar
+Tue Dec 05 14:27:28 EST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-2825-b4c2-000073a3fdc0 
+on database directory /home/hgontarz/NetBeansProjects/cis2206/PayrollDerbySortGUI/data/PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@33909752 
+Loaded from file:/home/hgontarz/NetBeansProjects/cis2206/PayrollDerbySortGUI/dist/run623950175/lib/derby.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_91-b14
-user.dir=C:\Users\55gontarhd03\Documents\NetBeansProjects\PayrollDerbySortGUI
-os.name=Windows 10
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/hgontarz/NetBeansProjects/cis2206/PayrollDerbySortGUI
+os.name=Linux
 os.arch=amd64
-os.version=10.0
+os.version=3.16.0-38-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
