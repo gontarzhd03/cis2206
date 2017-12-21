@@ -40,6 +40,8 @@ public class PayrollDerbySortGUI extends Application {
         payrollTable.setPrefWidth(800);
         BorderPane borderPane = new BorderPane();
         sc1.setContent(payrollTable);
+        sc1.setFitToWidth(true);
+        sc1.setFitToHeight(true);
         borderPane.setCenter(sc1);
 
         initialization(dbDirectory, dbName, user, password);
