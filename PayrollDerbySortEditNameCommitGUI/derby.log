@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 20 13:51:34 EST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-dac5-7303-000073a3fdc0 
+on database directory /home/hgontarz/NetBeansProjects/cis2206/PayrollDerbySortEditNameCommitGUI/data/PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@33909752 
+Loaded from file:/home/hgontarz/NetBeansProjects/cis2206/PayrollDerbySortEditNameCommitGUI/dist/run178406292/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/hgontarz/NetBeansProjects/cis2206/PayrollDerbySortEditNameCommitGUI
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
