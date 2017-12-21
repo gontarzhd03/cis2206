@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat Oct 28 09:25:48 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-015f-6328-f21e-ffffe2b0c64b 
+on database directory C:\Data\PayrollDerbyDatabase\PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@7852e922 
+Loaded from file:/C:/Data/WPFiles/Courses/Fall2017/Cis2206/PayrollMasterFileToDerbyDatabase/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Data\WPFiles\Courses\Fall2017\Cis2206\PayrollMasterFileToDerbyDatabase
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=c:/data/PayrollDerbyDatabase/
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Oct 28 09:25:49 EDT 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Oct 28 09:25:49 EDT 2017:
+Shutting down instance a816c00e-015f-6328-f21e-ffffe2b0c64b on database directory C:\Data\PayrollDerbyDatabase\PayrollMaster with class loader sun.misc.Launcher$AppClassLoader@7852e922 
+----------------------------------------------------------------
